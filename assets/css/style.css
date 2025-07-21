@@ -59,6 +59,7 @@ body {
 
 .conteudo > div >  img {
     width: 200px;
+    height: 150px;
     max-height: 180px;
     padding: 2px;
     border: 1px solid #000000;
